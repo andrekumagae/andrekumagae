@@ -1,11 +1,11 @@
- ## Stats
+ ## Minhas estatísticas
  <div>
   <a href="https://github.com/andrekumagae">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andrekumagae&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrekumagae&layout=compact&langs_count=7&theme=dracula"/>
 </div>
  
-## Skills
+## Linguagens conhecidas
  
  
 <div style="display: inline_block"><br>
@@ -20,7 +20,7 @@
  
 </div>
   
-## Contacts
+## Contate-me
 
 <div> 
   <a href = "mailto:andre.kumagae@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
